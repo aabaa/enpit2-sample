@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: やあ
+description: こんにちは
+github:
+  is_project_page: false
